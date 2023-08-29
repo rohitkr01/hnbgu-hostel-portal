@@ -1,8 +1,8 @@
 # HNBGU Hostel Management Portal
-[Github Link](https://github.com/VisheshVGR/hnbgu_hostel_management_portal) | [See live](https://hnbgu-hostel-management-portal.vercel.app/)
+[Github Link](https://github.com/rohitkr01/hnbgu-hostel-portal/) | [See live](https://hnbgu-hostel-portal.vercel.app/)
 ```
 Admin account details -
-Email : visheshguptavgr10@gmail.com
+Email : rohit09619@gmail.com
 Password : password
 ```
 ## Table of Contents 📕
